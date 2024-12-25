@@ -1,8 +1,10 @@
-# Preeti_Sunar
-Hey  there! 
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+### Hey  there! 
 
 <h1 align="center">Hi 👋, I'm Preeti Sunar</h1>
 <h3 align="center">Passionate AI enthusiast, committed to advancing technology through innovative ideas and meaningful contributions.</h3>
+<img align="right" alt="Coding" iwdth="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjl3OTZsdXFkNnV3dDF0cnZjN3p1N3Q0dTh1MDRpeGE4bGZybThwdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.webp">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3preeti&label=Profile%20views&color=0e75b6&style=flat" alt="3preeti" /> </p>
 
